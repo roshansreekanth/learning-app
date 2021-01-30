@@ -2,4 +2,4 @@
 
 ### Part of the Programming Mobile devices Module
 
-Educational app made to learn mobile app development
+Educational app made to learn mobile development
