@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Project1_Roshan_Sreekanth</string>
+
+    <string-array name="wild_animal_facts">
+        <item>Grizzly bears possess a biting force of over 1200 PSI, which is enough to crush a bowling ball, or an iron skillet.</item>
+        <item>Most deer are born with white spots but lose them within a year.</item>
+        <item>Elephants have around 150,000 muscle units in their trunk.</item>
+        <item>When fox pups are born, they are unable to see, hear or walk, and their mother must take good care of them. </item>
+        <item>Giraffes spend most of their lives standing up; they even sleep and give birth standing up.</item>
+        <item>Because of how huge and muscular their tail is, kangaroos can’t jump backwards.</item>
+        <item>Lions are the national animal of Albania, Belgium, Bulgaria, England, Ethiopia, Luxembourg, the Netherlands and Singapore.</item>
+        <item>The Pygmy Marmoset is the smallest type of monkey, with adults weighing between 120 and 140 grams.</item>
+        <item>Shark skin feels exactly like sandpaper because it is made up of tiny teeth-like structures called placoid scales.</item>
+        <item>A wolf pup’s eyes are blue at birth. Their eyes turn yellow by the time they are eight months old.</item>
+    </string-array>
+
+    <string-array name="wild_animal_facts_two">
+        <item>Bears care deeply about family members. They will risk their lives and even fight to the death in order to save a cub or sibling from danger.</item>
+        <item>All species of deer have antlers, with the exception of the Chinese water deer. They have canine teeth which can be as long as 8cm!</item>
+        <item>An adult elephant can consume up to 300 pounds of food in a single day.</item>
+        <item>Similar to cats, foxes are nocturnal. Due to their vertically slanted pupils, they have increased visibility in dim light.</item>
+        <item>A giraffe’s spots are much like human fingerprints. No two individual giraffes have exactly the same pattern.</item>
+        <item>Female kangaroos sport a pouch on their belly (made by a fold in the skin) to cradle baby kangaroos, called joeys.</item>
+        <item>Lions can go up to four days without drinking water, but they need to eat everyday.</item>
+        <item>At the tip of a monkey\'s tail is a patch of bare skin that acts similar to a human\'s fingertips.</item>
+        <item>When you flip a shark upside down they go into a trance like state called tonic immobility.</item>
+        <item>Wolves can roam large and long distances, sometimes up to 12 miles (20 kilometers) in a single day. </item>
+    </string-array>
+</resources>
